@@ -1,5 +1,5 @@
-Online demo: https://codesandbox.io/p/github/reyhanneh-gh/menu/main?import=true
-Vertical menu with drop-down submenu and a mega-menu using HTML and CSS.
-Developed By: Reyhaneh Ghalambor
-May30 - 2025
-Master: Parsa Ghorbanian
+- Online demo: https://codesandbox.io/p/github/reyhanneh-gh/menu/main?import=true
+- Vertical menu with drop-down submenu and a mega-menu using HTML and CSS.
+- Developed By: Reyhaneh Ghalambor
+- May30 - 2025
+- Master: Parsa Ghorbanian
